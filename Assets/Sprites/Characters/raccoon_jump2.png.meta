@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 391904f4dbace5742b7710d7f0f6e656
+timeCreated: 1479333309
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: raccoon_jump2_0
+    21300002: raccoon_jump2_1
+    21300004: raccoon_jump2_2
+    21300006: raccoon_jump2_3
+    21300008: raccoon_jump2_4
+    21300010: raccoon_jump2_5
+    21300012: raccoon_jump2_6
+    21300014: raccoon_jump2_7
+    21300016: raccoon_jump2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raccoon_jump2_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5232
+        width: 1753
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_1
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 5242
+        width: 1752
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3732
+        width: 1713
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_3
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 3717
+        width: 1836
+        height: 1277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2589
+        width: 1692
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_5
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2577
+        width: 1665
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1410
+        width: 1659
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_7
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1318
+        width: 1724
+        height: 1161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoon_jump2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1779
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

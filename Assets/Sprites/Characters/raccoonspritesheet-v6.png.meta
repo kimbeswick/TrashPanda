@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 5085ca856b51a83418e653635cf510ec
+timeCreated: 1479232071
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: raccoonspritesheet-v6_0
+    21300002: raccoonspritesheet-v6_1
+    21300004: raccoonspritesheet-v6_2
+    21300006: raccoonspritesheet-v6_3
+    21300008: raccoonspritesheet-v6_4
+    21300010: raccoonspritesheet-v6_5
+    21300012: raccoonspritesheet-v6_6
+    21300014: raccoonspritesheet-v6_7
+    21300016: raccoonspritesheet-v6_8
+    21300018: raccoonspritesheet-v6_9
+    21300020: raccoonspritesheet-v6_10
+    21300022: raccoonspritesheet-v6_11
+    21300024: raccoonspritesheet-v6_12
+    21300026: raccoonspritesheet-v6_13
+    21300028: raccoonspritesheet-v6_14
+    21300030: raccoonspritesheet-v6_15
+    21300032: raccoonspritesheet-v6_16
+    21300034: raccoonspritesheet-v6_17
+    21300036: raccoonspritesheet-v6_18
+    21300038: raccoonspritesheet-v6_19
+    21300040: raccoonspritesheet-v6_20
+    21300042: raccoonspritesheet-v6_21
+    21300044: raccoonspritesheet-v6_22
+    21300046: raccoonspritesheet-v6_23
+    21300048: raccoonspritesheet-v6_24
+    21300050: raccoonspritesheet-v6_25
+    21300052: raccoonspritesheet-v6_26
+    21300054: raccoonspritesheet-v6_27
+    21300056: raccoonspritesheet-v6_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 14964
+        width: 1542
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_1
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 14964
+        width: 1548
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 13887
+        width: 1581
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_3
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 13918
+        width: 1556
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12895
+        width: 1550
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_5
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 12872
+        width: 1573
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 11865
+        width: 1579
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_7
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 11865
+        width: 1565
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_8
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 10749
+        width: 1756
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9704
+        width: 1736
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_10
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 9703
+        width: 1859
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8580
+        width: 1543
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_12
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 8564
+        width: 1542
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7604
+        width: 1550
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_14
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 7604
+        width: 1579
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6573
+        width: 1635
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_16
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 6558
+        width: 1628
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5505
+        width: 1632
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_18
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 5521
+        width: 1690
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4583
+        width: 1643
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_20
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 4505
+        width: 1589
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3444
+        width: 1527
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_22
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 3444
+        width: 1442
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2282
+        width: 883
+        height: 1052
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_24
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 2266
+        width: 1008
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1065
+        width: 954
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_26
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1120
+        width: 914
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 984
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raccoonspritesheet-v6_28
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 43
+        width: 1627
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

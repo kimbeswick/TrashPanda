@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{36F836A6-4A04-8D4C-21F7-1ADA91236695}") = "TrashPanda", "Assembly-CSharp.csproj", "{D0C3D486-36C6-B231-5909-301E2AD41F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C3D486-36C6-B231-5909-301E2AD41F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C3D486-36C6-B231-5909-301E2AD41F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C3D486-36C6-B231-5909-301E2AD41F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C3D486-36C6-B231-5909-301E2AD41F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
